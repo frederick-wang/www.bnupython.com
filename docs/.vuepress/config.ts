@@ -1,6 +1,6 @@
 import { defineUserConfig, defaultTheme, HeadConfig } from 'vuepress'
 
-const head: HeadConfig[] = [['link', { rel: 'icon', href: '/favicon.png' }]]
+const head: HeadConfig[] = [['link', { rel: 'icon', href: '/favicon.ico' }]]
 
 const sidebar = {
   '/information/': [
