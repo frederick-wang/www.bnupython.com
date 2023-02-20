@@ -1,7 +1,7 @@
 ---
 home: true
 actions: 
-  - text: 查看最新消息
+  - text: 查看最新信息
     link: /2023_spring/information/news
     type: primary
   - text: 浏览课程介绍
