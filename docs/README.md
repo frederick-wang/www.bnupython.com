@@ -2,7 +2,7 @@
 home: true
 actions: 
   - text: 查看课程介绍
-    link: /information/introduction
+    link: /2023_spring/information/introduction
     type: primary
 footerHtml: true
 features:

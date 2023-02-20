@@ -1,3 +1,7 @@
+---
+next: ../preparation/join_luogu
+---
+
 # 课程介绍（2023年春季学期）
 
 **目录**
