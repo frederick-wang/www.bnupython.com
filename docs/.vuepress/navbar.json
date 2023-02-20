@@ -1,0 +1,9 @@
+[
+  {
+    "text": "2023年春季学期",
+    "children": [
+      { "text": "课程信息", "link": "/2023_spring/information/introduction" },
+      { "text": "前期准备", "link": "/2023_spring/preparation/join_luogu" }
+    ]
+  }
+]

@@ -1,5 +1,6 @@
 ---
-prev: ../information/introduction
+prev: ../information/resources
+next: ./environment_setup
 ---
 
 # 加入洛谷「BNU-ICIP」团队
@@ -20,24 +21,27 @@ prev: ../information/introduction
 
 ## 加入团队
 
-打开网址：[https://www.luogu.com.cn/team/48454](https://www.luogu.com.cn/team/48454)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201344931.png" style="max-width:60%;" alt="加入团队">
+</p>
 
 按照提示注册账号，然后点击「加入团队」按钮。
 
-![](https://res.zhaoji.ac.cn/images/202302201344931.png)
-
-填写验证信息，提交申请。
-
-![](https://res.zhaoji.ac.cn/images/202302201346646.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201346646.png" style="max-width:60%;" alt="提交申请">
+</p>
 
 等待管理员审核后，就会收到系统通知。这就表示加入团队成功了。
 
-![](https://res.zhaoji.ac.cn/images/202302201350345.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201350345.png" style="max-width:60%;" alt="加入团队成功">
+</p>
 
 然后进入[团队主页](https://www.luogu.com.cn/team/48454)，修改一下备注为姓名，方便后续管理。
 
-![](https://res.zhaoji.ac.cn/images/202302201355070.png)
-
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201355070.png" style="max-width:60%;" alt="修改备注">
+</p>
 
 ## 测试「作业」功能
 
@@ -47,7 +51,9 @@ prev: ../information/introduction
 
 点击导航栏中的「作业」，然后点击「测试作业」。
 
-![](https://res.zhaoji.ac.cn/images/202302201410877.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201410877.png" style="max-width:60%;" alt="测试作业">
+</p>
 
 进入作业后，首先看到的是「简介」，在简介中会说明一些必要的信息。
 
@@ -57,25 +63,33 @@ prev: ../information/introduction
 在开始做题前，请务必先点击「参与作业」按钮，否则系统将无法统计到你的做题记录。
 :::
 
-![](https://res.zhaoji.ac.cn/images/202302201410503.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201410503.png" style="max-width:60%;" alt="参与作业">
+</p>
 
 在「题目列表」页面，点击题目，就可以进入题目的页面。
 
-![](https://res.zhaoji.ac.cn/images/202302201412447.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201412447.png" style="max-width:60%;" alt="题目列表">
+</p>
 
 在题目页面，点击「提交答案」按钮，语言选择「Python 3」，即可提交 Python 代码。结果使用 print 输出。
 
-![](https://res.zhaoji.ac.cn/images/202302201415938.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201415938.png" style="max-width:60%;" alt="提交答案">
+</p>
 
 ::: tip 提示
-如果你从来没有接触过 Python 编程语言，那么只需要 **原样复制** 这句代码并粘贴进提交答案的文本输入框中即可：`print("Hello,World!")`。
+如果你从来没有接触过 Python 编程语言，那么只需要 **原样复制** 这句代码并粘提交答案的文本输入框中即可：`print("Hello,World!")`。
 
 我们这里只是做一个测试，带领你熟悉洛谷的功能。
 :::
 
 点击「提交评测」按钮，即可提交。然后，你应该可以看到提交成功的提示「你通过了此题，恭喜！」
 
-![](https://res.zhaoji.ac.cn/images/202302201416801.png)
+<p style="text-align:center">
+  <img src="https://res.zhaoji.ac.cn/images/202302201416801.png" style="max-width:60%;" alt="提交评测">
+</p>
 
 ::: warning 注意
 如果你使用的是老版本 Safari 浏览器，可能不会自动弹出提交成功的提示，这时候你可以刷新一下网页，或者点击题目页中的「提交记录」，就可以确定提交是否成功了。

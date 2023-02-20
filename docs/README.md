@@ -1,9 +1,12 @@
 ---
 home: true
 actions: 
-  - text: 查看课程介绍
-    link: /2023_spring/information/introduction
+  - text: 查看最新消息
+    link: /2023_spring/information/news
     type: primary
+  - text: 浏览课程介绍
+    link: /2023_spring/information/introduction
+    type: secondary
 footerHtml: true
 features:
   - title: 零基础学习

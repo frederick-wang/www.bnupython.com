@@ -1,36 +1,8 @@
 import { defineUserConfig, defaultTheme, HeadConfig } from 'vuepress'
+import navbar from './navbar.json'
+import sidebar from './sidebar.json'
 
 const head: HeadConfig[] = [['link', { rel: 'icon', href: '/favicon.ico' }]]
-
-const sidebar = {
-  '/2023_spring/': [
-    {
-      text: '课程信息',
-      children: [
-        { text: '课程介绍', link: '/2023_spring/information/introduction' }
-      ]
-    },
-    {
-      text: '前期准备',
-      children: [
-        {
-          text: '加入洛谷「BNU-ICIP」团队',
-          link: '/2023_spring/preparation/join_luogu'
-        }
-      ]
-    }
-  ]
-}
-
-const navbar = [
-  {
-    text: '2023年春季学期',
-    children: [
-      { text: '课程信息', link: '/2023_spring/information/introduction' },
-      { text: '前期准备', link: '/2023_spring/preparation/join_luogu' }
-    ]
-  }
-]
 
 export default defineUserConfig({
   head,
