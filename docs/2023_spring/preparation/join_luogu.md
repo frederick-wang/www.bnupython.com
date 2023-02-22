@@ -21,6 +21,8 @@ next: ./environment_setup
 
 ## 加入团队
 
+进入团队主页：[https://www.luogu.com.cn/team/48454](https://www.luogu.com.cn/team/48454)
+
 <p style="text-align:center">
   <img src="https://res.zhaoji.ac.cn/images/202302201344931.png" style="max-width:60%;" alt="加入团队">
 </p>
