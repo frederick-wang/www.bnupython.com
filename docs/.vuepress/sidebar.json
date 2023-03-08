@@ -22,7 +22,13 @@
       ]
     },
     {
-      "text": "作业"
+      "text": "作业",
+      "children": [
+      {
+        "text": "EX1: 新手村（上）",
+        "link": "/2023_spring/exercise/ex1_beginners_village_part1"
+      }
+      ]
     }
   ]
 }

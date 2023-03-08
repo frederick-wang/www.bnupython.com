@@ -1,5 +1,6 @@
 ---
 prev: ./join_luogu
+next: ../exercise/ex1_beginners_village_part1
 ---
 
 # 环境搭建
