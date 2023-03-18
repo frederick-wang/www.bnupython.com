@@ -24,10 +24,14 @@
     {
       "text": "作业",
       "children": [
-      {
-        "text": "EX1: 新手村（上）",
-        "link": "/2023_spring/exercise/ex1_beginners_village_part1"
-      }
+        {
+          "text": "EX1: 新手村（上）",
+          "link": "/2023_spring/exercise/ex1_beginners_village_part1"
+        },
+        {
+          "text": "EX2: 新手村（中）",
+          "link": "/2023_spring/exercise/ex2_beginners_village_part2"
+        }
       ]
     }
   ]
