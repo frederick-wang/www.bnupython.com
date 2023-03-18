@@ -1,5 +1,6 @@
 ---
 prev: ../preparation/environment_setup
+next: ./ex1_beginners_village_part2
 ---
 
 # EX1: 新手村（上）
