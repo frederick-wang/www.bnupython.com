@@ -2,7 +2,7 @@
 prev: ./ex2_beginners_village_part2
 ---
 
-# EX3: 新手村（三）
+# EX3: 新手村（终）
 
 洛谷作业地址：[https://www.luogu.com.cn/training/295936](https://www.luogu.com.cn/training/295936)
 
@@ -24,6 +24,9 @@ prev: ./ex2_beginners_village_part2
   - 9. T323901 魔法学院学籍管理
   - 10. T323904 精灵之跃
   - 11. T323907 魔法图书馆的书架挑战
+  - 12. T323913 勇者的魔法统计图
+  - 13. T323912 速度与激情
+  - 14. T323914 勇者攀登魔法塔
 - Python 3.8 官方文档相关章节
 
 ## 前言
@@ -54,6 +57,9 @@ prev: ./ex2_beginners_village_part2
 | 9 | [T323901 魔法学院学籍管理](https://www.luogu.com.cn/problem/T323901) |
 | 10 | [T323904 精灵之跃](https://www.luogu.com.cn/problem/T323904) |
 | 11 | [T323907 魔法图书馆的书架挑战](https://www.luogu.com.cn/problem/T323907) |
+| 12 | [T323913 勇者的魔法统计图](https://www.luogu.com.cn/problem/T323913) |
+| 13 | [T323912 速度与激情](https://www.luogu.com.cn/problem/T323912) |
+| 14 | [T323914 勇者攀登魔法塔](https://www.luogu.com.cn/problem/T323914) |
 
 ## 注意事项
 
@@ -127,6 +133,20 @@ prev: ./ex2_beginners_village_part2
 大胆一些，**大力出奇迹！**
 
 ![大力出奇迹](https://res.zhaoji.ac.cn/images/202303230918256.png)
+
+### 12. T323913 勇者的魔法统计图
+
+大模拟。
+
+### 13. T323912 速度与激情
+
+细心即可。
+
+### 14. T323914 勇者攀登魔法塔
+
+上到第 $N$ 级楼梯的走法数，与是否和之前上到第 $1, 2, \dots, N - 1$ 级楼梯的走法数有关？
+
+如果有关，和哪些有关？
 
 ## Python 3.8 官方文档相关章节
 
