@@ -1,5 +1,6 @@
 ---
 prev: ./ex1_beginners_village_part1
+next: ./ex3_beginners_village_part3
 ---
 
 # EX2: 新手村（中）

@@ -8,6 +8,7 @@ next: ./introduction
 
 | 时间 | 内容 |
 | --- | --- |
+| 2023-03-23 | 作业 [EX3: 新手村（三）](/2023_spring/exercise/ex3_beginners_village_part3) 已发布。<br> <span style="color: #CB1B45">需要在 2023 年 3 月 23 日 ~ 2023 年 4 月 5 日 内完成。</span> |
 | 2023-03-18 | 作业 [EX2: 新手村（中）](/2023_spring/exercise/ex2_beginners_village_part2) 已发布。<br> <span style="color: #CB1B45">需要在 2023 年 3 月 18 日 ~ 2023 年 3 月 28 日 内完成。</span> |
 | 2023-03-08 | 作业 [EX1: 新手村（上）](/2023_spring/exercise/ex1_beginners_village_part1) 已发布。<br> <span style="color: #CB1B45">需要在 2023 年 3 月 8 日 ~ 2023 年 3 月 14 日 内完成。</span> |
 
