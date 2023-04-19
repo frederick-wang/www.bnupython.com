@@ -1,5 +1,6 @@
 ---
 prev: ./ex2_beginners_village_part2
+next: ./ex4_crawler
 ---
 
 # EX3: 新手村（终）
