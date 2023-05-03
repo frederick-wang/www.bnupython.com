@@ -39,6 +39,10 @@
         {
           "text": "EX4: 网络爬虫",
           "link": "/2023_spring/exercise/ex4_crawler"
+        },
+        {
+          "text": "EX5: 机器学习",
+          "link": "/2023_spring/exercise/ex5_machine_learning"
         }
       ]
     }

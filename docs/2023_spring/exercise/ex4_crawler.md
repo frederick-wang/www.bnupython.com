@@ -1,8 +1,9 @@
 ---
 prev: ./ex3_beginners_village_part3
+next: ./ex5_machine_learning
 ---
 
-# 爬虫作业：用户评论挖掘
+# EX4: 爬虫作业：用户评论挖掘
 
 ## 作业说明
 
