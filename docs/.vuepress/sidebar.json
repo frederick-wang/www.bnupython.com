@@ -35,6 +35,10 @@
         {
           "text": "EX3: 新手村（终）",
           "link": "/2023_spring/exercise/ex3_beginners_village_part3"
+        },
+        {
+          "text": "EX4: 网络爬虫",
+          "link": "/2023_spring/exercise/ex4_crawler"
         }
       ]
     }
