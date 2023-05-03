@@ -4,6 +4,13 @@ next: ./introduction
 
 # 最新信息
 
+## 2023 年 5 月
+
+| 时间 | 内容 |
+| --- | --- |
+| 2023-05-03 | 作业 [EX5: 机器学习](/2023_spring/exercise/ex5_machine_learning) 已发布。<br> <span style="color: #CB1B45">需要在 2023 年 5 月 4 日 ~ 2023 年 5 月 17 日 内完成。</span> |
+
+
 ## 2023 年 4 月
 
 | 时间 | 内容 |
