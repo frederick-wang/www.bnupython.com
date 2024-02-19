@@ -1,4 +1,31 @@
 {
+  "/2024_spring/": [
+    {
+      "text": "课程信息",
+      "children": [
+        { "text": "最新信息", "link": "/2024_spring/information/news" },
+        { "text": "课程介绍", "link": "/2024_spring/information/introduction" },
+        { "text": "教学资源", "link": "/2024_spring/information/resources" }
+      ]
+    },
+    {
+      "text": "前期准备",
+      "children": [
+        {
+          "text": "加入洛谷「BNU-ICIP」团队",
+          "link": "/2024_spring/preparation/join_luogu"
+        },
+        {
+          "text": "环境搭建",
+          "link": "/2024_spring/preparation/environment_setup"
+        }
+      ]
+    },
+    {
+      "text": "作业",
+      "children": []
+    }
+  ],
   "/2023_spring/": [
     {
       "text": "课程信息",

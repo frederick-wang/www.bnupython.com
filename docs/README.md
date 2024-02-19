@@ -2,10 +2,10 @@
 home: true
 actions: 
   - text: 查看最新信息
-    link: /2023_spring/information/news
+    link: /2024_spring/information/news
     type: primary
   - text: 浏览课程介绍
-    link: /2023_spring/information/introduction
+    link: /2024_spring/information/introduction
     type: secondary
 footerHtml: true
 features:
@@ -21,5 +21,5 @@ features:
     details: 从数据爬取、预处理及可视化等方面进行编程实践
   - title: 学术界前沿
     details: 讲授机器学习、深度学习模型的原理及学术界前沿研究进展
-footer: Copyright © 2022-2023 <a href="https://icip.bnu.edu.cn/" target="_blank">北京师范大学</a>
+footer: Copyright © 2022-2024 <a href="https://icip.bnu.edu.cn/" target="_blank">北京师范大学</a>
 ---
