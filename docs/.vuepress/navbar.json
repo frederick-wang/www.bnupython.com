@@ -28,12 +28,7 @@
       },
       {
         "text": "作业",
-        "children": [
-          {
-            "text": "EX1: 新手村（上）",
-            "link": "/2024_spring/exercise/ex1_beginners_village_part1"
-          }
-        ]
+        "children": []
       }
     ]
   },
